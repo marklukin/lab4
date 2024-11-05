@@ -28,9 +28,3 @@ const persons = {
     hirohito: { born: 1901, died: 1989 },
 };
 console.log(ages(persons));
-// {
-//   lenin: 54,
-//   mao: 83,
-//   gandhi: 79,
-//   hirohito: 88,
-// }
